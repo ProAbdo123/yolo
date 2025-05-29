@@ -1,0 +1,6 @@
+*.mp4
+*.avi
+*.log
+*.npy
+__pycache__/
+*.zip
