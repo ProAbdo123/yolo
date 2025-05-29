@@ -1,5 +1,5 @@
 flask
 numpy
 onnxruntime
-opencv-python
+opencv-python-headless
 gunicorn
